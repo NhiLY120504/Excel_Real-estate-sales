@@ -25,7 +25,7 @@ In the real estate market, fragmented sales data often prevents businesses from 
 * The dataset includes information on apartment code, building, selling price, area, customer information (Age, Country), and source.
 
 **Data Cleaning**
-| Issue Found | Action Taken |
+| Issue Found | Action |
 | :--- | :--- |
 | 72 blank Status rows (unsold inventory) | Filled → "Available" |
 | Customers purchase information (M, D) for Firms are blank | Filled → "N/A" |
