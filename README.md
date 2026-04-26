@@ -40,7 +40,6 @@ In the real estate market, fragmented sales data often prevents businesses from 
 
 ## 4. Insight Deep Dive
 * **Sales Seasonality:** Revenue consistently peaks at the end of the year (**November peak**). This indicates a strong trend of home-buying or investment sentiment before the transition to the new year.
-* **Customer Persona:** * The **36 - 45 age group** is the primary revenue driver, showing a significantly higher inclination toward **Investment** compared to younger segments.
-    * Interestingly, the **18-25 age group**, despite having the lowest sales volume (5 units), boasts the **highest average price per unit**. This suggests that young buyers are specifically targeting premium properties or high-end segments.
+* **Customer Persona:** The **36 - 45 age group** is the primary revenue driver, showing a significantly higher inclination toward **Investment** compared to younger segments. Interestingly, the **18-25 age group**, despite having the lowest sales volume (5 units), boasts the **highest average price per unit**. This suggests that young buyers are specifically targeting premium properties or high-end segments.
 * **Product Efficiency:** Although **Offices** occupy a larger average area, their contribution to total revenue is substantially lower than **Apartments**. This provides a solid basis for the business to reconsider floor space allocation in future projects.
 * **Source Effectiveness:** **Website** and **Agency** are the two highest-quality channels, accounting for the vast majority of successful transactions.
